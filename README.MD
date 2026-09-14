@@ -15,7 +15,7 @@
 ## ⚡ Quick Start: How to Use It
 
 If you have code or a repository you'd like to inspect right now:
-1. Open the app: **[Launch Ada Loves Code](#)** *(insert your live link here)*
+1. Open the app: **[Launch Ada Loves Code](https://ada-loves-code.ai.studio/)** 
 2. Select your dedication mode:
    * **My Code / Repo:** To inspect and celebrate your own project.
    * **Honor a Maintainer:** To generate a bespoke epistolary laurel dedicated to an open-source contributor or friend.
