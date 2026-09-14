@@ -1,0 +1,8 @@
+{
+  "name": "Ada Loves Code",
+  "description": "Ada Loves Code, a Compliment Generator for OS Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
